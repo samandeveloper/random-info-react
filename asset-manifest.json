@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/random-info-react/static/css/main.d0f13bc1.chunk.css",
+    "main.js": "/random-info-react/static/js/main.993e7a64.chunk.js",
+    "main.js.map": "/random-info-react/static/js/main.993e7a64.chunk.js.map",
+    "runtime-main.js": "/random-info-react/static/js/runtime-main.91e46e46.js",
+    "runtime-main.js.map": "/random-info-react/static/js/runtime-main.91e46e46.js.map",
+    "static/js/2.a987e3f1.chunk.js": "/random-info-react/static/js/2.a987e3f1.chunk.js",
+    "static/js/2.a987e3f1.chunk.js.map": "/random-info-react/static/js/2.a987e3f1.chunk.js.map",
+    "index.html": "/random-info-react/index.html",
+    "precache-manifest.344cbfae1a78ca684193db478d954d3e.js": "/random-info-react/precache-manifest.344cbfae1a78ca684193db478d954d3e.js",
+    "service-worker.js": "/random-info-react/service-worker.js",
+    "static/css/main.d0f13bc1.chunk.css.map": "/random-info-react/static/css/main.d0f13bc1.chunk.css.map",
+    "static/js/2.a987e3f1.chunk.js.LICENSE.txt": "/random-info-react/static/js/2.a987e3f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91e46e46.js",
+    "static/js/2.a987e3f1.chunk.js",
+    "static/css/main.d0f13bc1.chunk.css",
+    "static/js/main.993e7a64.chunk.js"
+  ]
+}
